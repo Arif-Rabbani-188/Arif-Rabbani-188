@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Lifelong Learner</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&width=500&lines=Hi!+I'm+Arif+Rabbani;MERN+Stack+Web+Developer;Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+Code+%7C+Reusable+Components;REST+API+%7C+Authentication+%7C+CRUD+Apps;Always+Improving+Through+Code;Open+Source+Contributor;Ready+for+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&width=500&lines=MERN+Stack+Web+Developer;Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+Code+%7C+Reusable+Components;REST+API+%7C+Authentication+%7C+CRUD+Apps;Always+Improving+Through+Code;Ready+for+Remote+Opportunities" alt="Typing SVG" />
 </div>
 
 
@@ -53,7 +53,7 @@
 ### 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arifrabbani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/arif-rabbani-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:arif.rabbani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail" /></a>
   <a href="https://arifrabbani.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-12100E?style=flat-square&logo=vercel" /></a>
 </p>
