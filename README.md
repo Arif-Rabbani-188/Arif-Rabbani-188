@@ -1,9 +1,10 @@
 <h1 align="center">KHAN MAHMUD ARIF RABBANI</h1>
 <h3 align="center">MERN Stack Developer | Lifelong Learner</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&width=500&lines=Hi!+I'm+Arif+Rabbani;MERN+Stack+Web+Developer;Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+Code+%7C+Reusable+Components;REST+API+%7C+Authentication+%7C+CRUD+Apps;Always+Improving+Through+Code;Open+Source+Contributor;Ready+for+Remote+Opportunities" alt="Typing SVG" />
-</p>
+</div>
+
 
 
 ---
