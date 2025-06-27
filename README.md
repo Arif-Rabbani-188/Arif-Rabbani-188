@@ -21,11 +21,12 @@
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=fortran)
+
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwind-css)
 
 #### Backend
