@@ -82,12 +82,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=arif-rabbani-188&show_icons=true&theme=radical" alt="Arif's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-rabbani-188&theme=radical" alt="GitHub Streak" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.vercel.app?user=arif-rabbani-188&theme=radical" alt="GitHub Streak" />
   <br />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-rabbani-188&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
