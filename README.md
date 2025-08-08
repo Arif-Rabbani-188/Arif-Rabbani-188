@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/QLVCZt1/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center">MERN Stack Developer | Lifelong Learner</h3>
+<h3 align="center">MERN Stack Developer |  Physics Major at University of Rajshahi</h3>
 
 <!-- ⌨️ Typing animation -->
 <div align="center">
