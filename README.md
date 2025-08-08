@@ -1,6 +1,6 @@
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/yourBannerImage.png" alt="Banner" width="100%" />
+  <img src="[https://i.imgur.com/yourBannerImage.png](https://i.ibb.co.com/QLVCZt1/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">KHAN MAHMUD ARIF RABBANI</h1>
