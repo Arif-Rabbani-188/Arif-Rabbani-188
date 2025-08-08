@@ -12,19 +12,12 @@
 
 ---
 
-### 📍 Location & Contact
-- 🏠 **Location**: Rajshahi, Bangladesh  
-- 📧 **Email**: [arif.rabbani.dev@gmail.com](mailto:arif.rabbani.dev@gmail.com)  
-- 📞 **Contact**: +880-18844810000  
-- 🌐 **Portfolio**: [arif-rabbani-f3499.web.app](https://arif-rabbani-f3499.web.app/)
-
----
-
 ### 👨‍💻 About Me
 
-- 💼 MERN Stack Developer with a passion for building scalable and responsive full-stack applications.
-- 👨‍🎓 Physics student constantly learning new technologies to stay ahead in web development.
-- 💡 I love solving real-world problems through clean, reusable code.
+- 💼 **MERN Stack Developer** passionate about building scalable, performant, and user-friendly full-stack applications.
+- 🎓 **Physics student at the University of Rajshahi**, leveraging scientific thinking to craft elegant code.
+- 🌱 Always eager to learn and experiment with the latest technologies in web development.
+- 💡 Driven by curiosity and creativity to solve real-world problems with clean, maintainable solutions.
 
 ---
 
@@ -34,6 +27,14 @@
 - 🧾 Working on a **tourism website** with booking functionality.
 - 🧠 Learning **Machine Learning** using **Python**
 - 💬 Improving skills in **REST APIs**, **authentication**, and **role-based access**.
+
+---
+
+### 📍 Location & Contact
+- 🏠 **Location**: Rajshahi, Bangladesh  
+- 📧 **Email**: [arif.rabbani.dev@gmail.com](mailto:arif.rabbani.dev@gmail.com)  
+- 📞 **Contact**: +880-18844810000  
+- 🌐 **Portfolio**: [arifrabbani.vercel.app](https://arif-rabbani-f3499.web.app/)
 
 ---
 
