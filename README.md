@@ -1,64 +1,99 @@
+<!-- 🎨 Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/QLVCZt1/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" style="max-height: 200px; object-fit: cover;" />
+  <img src="https://i.ibb.co/QLVCZt1/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Arif Rabbani 👋</h1>
-<h3 align="center">Front-end Developer | MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Lifelong Learner</h3>
+
+<!-- ⌨️ Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&width=500&lines=MERN+Stack+Web+Developer;Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+Code+%7C+Reusable+Components;REST+API+%7C+Authentication+%7C+CRUD+Apps;Always+Improving+Through+Code;Ready+for+Remote+Opportunities" alt="Typing SVG" />
+</div>
+
+---
+
+### 📍 Location & Contact
+- 🏠 **Location**: Rajshahi, Bangladesh  
+- 📧 **Email**: [arif.rabbani.dev@gmail.com](mailto:arif.rabbani.dev@gmail.com)  
+- 📞 **Contact**: +880-18844810000  
+- 🌐 **Portfolio**: [arifrabbani.vercel.app](https://arif-rabbani-f3499.web.app/)
 
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate web developer and physics student. I enjoy building real-time, responsive, and user-friendly web applications. Currently preparing myself for the future of AI-integrated web development.
+
+- 💼 MERN Stack Developer with a passion for building scalable and responsive full-stack applications.
+- 👨‍🎓 Physics student constantly learning new technologies to stay ahead in web development.
+- 💡 I love solving real-world problems through clean, reusable code.
 
 ---
 
-### 🔭 Current Activities
+### 🚀 Current Activities
 
-- 🚀 Exploring **Next.js**
+- 🌐 I’m exploring **Next.js** and **Socket.IO** for real-time web applications.
+- 🧾 Working on a **tourism website** with booking functionality.
 - 🧠 Learning **Machine Learning** using **Python**
-- 💡 Working with **Socket.IO** for real-time features
+- 💬 Improving skills in **REST APIs**, **authentication**, and **role-based access**.
 
 ---
 
-### ⚒️ Skills
+### 🛠️ Tech Stack
 
-#### 👨‍🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=fortran)
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat-square&logo=css3)
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+#### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-3c873a?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
+#### 🗃️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-rabbani-188/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/arif-rabbani-188)
-
-📍 **Location:** Bangladesh  
-📧 **Email:** arif.rabbani.188@gmail.com  
-📞 **Phone:** +880-18XXXXXXXX *(optional, remove if public)*
+<p align="center">
+  <a href="https://www.linkedin.com/in/arif-rabbani-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:arif.rabbani.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail" /></a>
+  <a href="https://arif-rabbani-f3499.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-12100E?style=flat-square&logo=vercel" /></a>
+  <a href="https://github.com/arif-rabbani-188" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=arif-rabbani-188&show_icons=true&theme=radical" alt="Arif's GitHub Stats" />
   <br />
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.vercel.app?user=arif-rabbani-188&theme=radical" alt="GitHub Streak" />
   <br />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-rabbani-188&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
+---
+
+> ⚡ *"The best way to learn is to build." — Keep building, keep learning!*
