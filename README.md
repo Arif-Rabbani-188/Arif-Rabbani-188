@@ -1,7 +1,8 @@
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/QLVCZt1/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" height="full"/>
+  <img src="https://i.ibb.co/QLVCZt1/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
+
 
 <h1 align="center">KHAN MAHMUD ARIF RABBANI</h1>
 <h3 align="center">MERN Stack Developer | Lifelong Learner</h3>
