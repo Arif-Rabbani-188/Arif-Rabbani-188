@@ -16,7 +16,7 @@
 - 🏠 **Location**: Rajshahi, Bangladesh  
 - 📧 **Email**: [arif.rabbani.dev@gmail.com](mailto:arif.rabbani.dev@gmail.com)  
 - 📞 **Contact**: +880-18844810000  
-- 🌐 **Portfolio**: [arifrabbani.vercel.app](https://arif-rabbani-f3499.web.app/)
+- 🌐 **Portfolio**: [arif-rabbani-f3499.web.app](https://arif-rabbani-f3499.web.app/)
 
 ---
 
