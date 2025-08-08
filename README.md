@@ -85,6 +85,9 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=arif-rabbani-188&show_icons=true&theme=radical" alt="Arif's GitHub Stats" />
   <br />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=arif-rabbani-188&theme=radical" alt="GitHub Streak" />
+</p>
   <br/>
 
   <!-- Top Languages -->
